@@ -94,8 +94,9 @@ class BtmovieDownloaderMiddleware1(object):
         html_doc = driver.page_source
         # 获取的页面封装成response 对象
         response = HtmlResponse(url=url, body=html_doc, encoding='utf-8', request=request)
+        print(__file__, '1请求中间件')
         return response
-        print('请求中间件')
+        
         return None
 
     def process_response(self, request, response, spider):
@@ -105,7 +106,7 @@ class BtmovieDownloaderMiddleware1(object):
         # - return a Response object
         # - return a Request object
         # - or raise IgnoreRequest
-        print('响应中间件')
+        print(__file__, '1 响应')
         return response
 
     def process_exception(self, request, exception, spider):
@@ -136,6 +137,7 @@ class BtmovieDownloaderMiddleware2(object):
         # - or return a Request object
         # - or raise IgnoreRequest: process_exception() methods of
         #   installed downloader middleware will be called
+        print(__file__, '2requset在哪')
         return None
 
     def process_response(self, request, response, spider):
@@ -145,6 +147,7 @@ class BtmovieDownloaderMiddleware2(object):
         # - return a Response object
         # - return a Request object
         # - or raise IgnoreRequest
+        print(__file__, '2响应')
         return response
 
     def process_exception(self, request, exception, spider):

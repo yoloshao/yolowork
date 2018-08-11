@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a8a692-bacc-4f1e-90e9-dacecd89708b" name="Default" comment="" />
+    <list default="true" id="17a8a692-bacc-4f1e-90e9-dacecd89708b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ScrapySpider/BtMovie/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ScrapySpider/BtMovie/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ScrapySpider/BtMovie/BtMovie/middlewares.py" afterPath="$PROJECT_DIR$/ScrapySpider/BtMovie/BtMovie/middlewares.py" />
+      <change beforePath="$PROJECT_DIR$/ScrapySpider/BtMovie/BtMovie/spiders/btdy.py" afterPath="$PROJECT_DIR$/ScrapySpider/BtMovie/BtMovie/spiders/btdy.py" />
+      <change beforePath="$PROJECT_DIR$/ScrapySpider/BtMovie/btdy.json" afterPath="$PROJECT_DIR$/ScrapySpider/BtMovie/btdy.json" />
+      <change beforePath="$PROJECT_DIR$/ScrapySpider/BtMovie/run.py" afterPath="$PROJECT_DIR$/ScrapySpider/BtMovie/run.py" />
+      <change beforePath="$PROJECT_DIR$/ScrapySpider/MiddlePool/MiddlePool/middlewares.py" afterPath="$PROJECT_DIR$/ScrapySpider/MiddlePool/MiddlePool/middlewares.py" />
+      <change beforePath="$PROJECT_DIR$/ScrapySpider/MiddlePool/MiddlePool/settings.py" afterPath="$PROJECT_DIR$/ScrapySpider/MiddlePool/MiddlePool/settings.py" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Api/ProxyApi.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Api/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Config.ini" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/DB/DbClient.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/DB/MongodbClient.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/DB/RedisClient.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/DB/SsdbClient.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/DB/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Dockerfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Manager/ProxyManager.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Manager/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/ProxyGetter/CheckProxy.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/ProxyGetter/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/ProxyGetter/getFreeProxy.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Run/main.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Schedule/ProxyCheck.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Schedule/ProxyRefreshSchedule.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Schedule/ProxyValidSchedule.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Schedule/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Test/.pytest_cache/v/cache/lastfailed" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Test/.pytest_cache/v/cache/nodeids" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Test/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Test/testGetConfig.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Test/testGetFreeProxy.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Test/testLogHandler.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Test/testWebRequest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Util/EnvUtil.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Util/GetConfig.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Util/LogHandler.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Util/WebRequest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Util/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Util/utilClass.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/Util/utilFunction.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/_config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/doc/introduce.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/doc/release_notes.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/log/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/requirements.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/proxy_pool-master/test.py" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,36 +63,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/yolowork$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1533611864778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/threading" />
-    <SUITE FILE_PATH="coverage/yolowork$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1533816243265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/BtMovie" />
     <SUITE FILE_PATH="coverage/yolowork$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1533527570169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/processing" />
-    <SUITE FILE_PATH="coverage/yolowork$04.coverage" NAME="正则表达式获取所有超链接04 Coverage Results" MODIFIED="1533299904902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
-    <SUITE FILE_PATH="coverage/yolowork$16requests03.coverage" NAME="16requests下载大文件03 Coverage Results" MODIFIED="1533473483408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
-    <SUITE FILE_PATH="coverage/yolowork$09yield.coverage" NAME="09向yield发送消息 Coverage Results" MODIFIED="1533365671992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
     <SUITE FILE_PATH="coverage/yolowork$get_content_use_selenium.coverage" NAME="get_content_use_selenium Coverage Results" MODIFIED="1533817703531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/demo" />
     <SUITE FILE_PATH="coverage/yolowork$t1_2.coverage" NAME="t1_2 Coverage Results" MODIFIED="1533614718388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/threading" />
     <SUITE FILE_PATH="coverage/yolowork$.coverage" NAME="生产者消费者模式 Coverage Results" MODIFIED="1533882089759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
     <SUITE FILE_PATH="coverage/yolowork$test.coverage" NAME="test Coverage Results" MODIFIED="1533263094515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
     <SUITE FILE_PATH="coverage/yolowork$1501.coverage" NAME="15模拟登陆过程使用01 Coverage Results" MODIFIED="1533468448247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
     <SUITE FILE_PATH="coverage/yolowork$16requestsjson09.coverage" NAME="16requests发送json数据09 Coverage Results" MODIFIED="1533560763116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
-    <SUITE FILE_PATH="coverage/yolowork$fake_useragent.coverage" NAME="随机库fake_useragent Coverage Results" MODIFIED="1533820595118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/demo" />
     <SUITE FILE_PATH="coverage/yolowork$16requests11.coverage" NAME="16requests会话11 Coverage Results" MODIFIED="1533563234418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
-    <SUITE FILE_PATH="coverage/yolowork$01.coverage" NAME="选择排序01 Coverage Results" MODIFIED="1533822852137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
     <SUITE FILE_PATH="coverage/yolowork$16requests02.coverage" NAME="16requests下载图片02 Coverage Results" MODIFIED="1533471329131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
-    <SUITE FILE_PATH="coverage/yolowork$13urllibGET.coverage" NAME="13urllib基础发送GET请求 Coverage Results" MODIFIED="1533445106271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
-    <SUITE FILE_PATH="coverage/yolowork$16requestscookie07.coverage" NAME="16requests发送cookie07 Coverage Results" MODIFIED="1533559761516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
     <SUITE FILE_PATH="coverage/yolowork$14post.coverage" NAME="14发送post请求 Coverage Results" MODIFIED="1533466188925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
     <SUITE FILE_PATH="coverage/yolowork$16requests.coverage" NAME="16requests超时时间 Coverage Results" MODIFIED="1533558940255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
     <SUITE FILE_PATH="coverage/yolowork$c1.coverage" NAME="c1 Coverage Results" MODIFIED="1533701014469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/coroutine" />
-    <SUITE FILE_PATH="coverage/yolowork$15cookie.coverage" NAME="15如何获取网站cookie Coverage Results" MODIFIED="1533466993386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
     <SUITE FILE_PATH="coverage/yolowork$06.coverage" NAME="线程锁06 Coverage Results" MODIFIED="1533347214498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
-    <SUITE FILE_PATH="coverage/yolowork$1301.coverage" NAME="13添加头信息01 Coverage Results" MODIFIED="1533445669609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
-    <SUITE FILE_PATH="coverage/yolowork$btdy.coverage" NAME="btdy Coverage Results" MODIFIED="1533816309123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/BtMovie/BtMovie/spiders" />
     <SUITE FILE_PATH="coverage/yolowork$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1533525335206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/processing" />
     <SUITE FILE_PATH="coverage/yolowork$args_demo.coverage" NAME="args_demo Coverage Results" MODIFIED="1533736475301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider" />
-    <SUITE FILE_PATH="coverage/yolowork$a51job.coverage" NAME="a51job Coverage Results" MODIFIED="1533790476763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/JobCrawl/JobCrawl/spiders" />
     <SUITE FILE_PATH="coverage/yolowork$12.coverage" NAME="12异步协程批量下载网页 Coverage Results" MODIFIED="1533532391275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
     <SUITE FILE_PATH="coverage/yolowork$1701.coverage" NAME="17预请求01 Coverage Results" MODIFIED="1533563925102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
+    <SUITE FILE_PATH="coverage/yolowork$c1_2_yield.coverage" NAME="c1_2_yield Coverage Results" MODIFIED="1533701652490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/coroutine" />
+    <SUITE FILE_PATH="coverage/yolowork$11.coverage" NAME="11异步协程买汉堡 Coverage Results" MODIFIED="1533515404232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
+    <SUITE FILE_PATH="coverage/yolowork$redis_spider.coverage" NAME="redis_spider Coverage Results" MODIFIED="1533651108310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分布式爬虫" />
+    <SUITE FILE_PATH="coverage/yolowork$16requests06.coverage" NAME="16requests重定向06 Coverage Results" MODIFIED="1533559256850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
+    <SUITE FILE_PATH="coverage/yolowork$16requestspost01.coverage" NAME="16requests发送post请求01 Coverage Results" MODIFIED="1533470875328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
+    <SUITE FILE_PATH="coverage/yolowork$demo.coverage" NAME="demo Coverage Results" MODIFIED="1533645176062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分布式爬虫" />
+    <SUITE FILE_PATH="coverage/yolowork$05.coverage" NAME="进程之间的通讯05 Coverage Results" MODIFIED="1533543182800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/processing" />
+    <SUITE FILE_PATH="coverage/yolowork$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1533611864778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/threading" />
+    <SUITE FILE_PATH="coverage/yolowork$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1533816243265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/BtMovie" />
+    <SUITE FILE_PATH="coverage/yolowork$04.coverage" NAME="正则表达式获取所有超链接04 Coverage Results" MODIFIED="1533299904902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
+    <SUITE FILE_PATH="coverage/yolowork$16requests03.coverage" NAME="16requests下载大文件03 Coverage Results" MODIFIED="1533473483408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
+    <SUITE FILE_PATH="coverage/yolowork$09yield.coverage" NAME="09向yield发送消息 Coverage Results" MODIFIED="1533365671992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
+    <SUITE FILE_PATH="coverage/yolowork$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1533957810994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool/Run" />
+    <SUITE FILE_PATH="coverage/yolowork$fake_useragent.coverage" NAME="随机库fake_useragent Coverage Results" MODIFIED="1533820595118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/demo" />
+    <SUITE FILE_PATH="coverage/yolowork$main.coverage" NAME="main Coverage Results" MODIFIED="1533950850452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Run" />
+    <SUITE FILE_PATH="coverage/yolowork$01.coverage" NAME="选择排序01 Coverage Results" MODIFIED="1533822852137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
+    <SUITE FILE_PATH="coverage/yolowork$13urllibGET.coverage" NAME="13urllib基础发送GET请求 Coverage Results" MODIFIED="1533445106271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
+    <SUITE FILE_PATH="coverage/yolowork$16requestscookie07.coverage" NAME="16requests发送cookie07 Coverage Results" MODIFIED="1533559761516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
+    <SUITE FILE_PATH="coverage/yolowork$15cookie.coverage" NAME="15如何获取网站cookie Coverage Results" MODIFIED="1533466993386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
+    <SUITE FILE_PATH="coverage/yolowork$1301.coverage" NAME="13添加头信息01 Coverage Results" MODIFIED="1533445669609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
+    <SUITE FILE_PATH="coverage/yolowork$btdy.coverage" NAME="btdy Coverage Results" MODIFIED="1533816309123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/BtMovie/BtMovie/spiders" />
+    <SUITE FILE_PATH="coverage/yolowork$a51job.coverage" NAME="a51job Coverage Results" MODIFIED="1533790476763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/JobCrawl/JobCrawl/spiders" />
     <SUITE FILE_PATH="coverage/yolowork$03.coverage" NAME="解析文件03 Coverage Results" MODIFIED="1533298647133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
     <SUITE FILE_PATH="coverage/yolowork$16requests04.coverage" NAME="16requests请求响应信息04 Coverage Results" MODIFIED="1533558667232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
     <SUITE FILE_PATH="coverage/yolowork$run.coverage" NAME="run Coverage Results" MODIFIED="1533894290848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/MiddlePool" />
@@ -48,56 +110,14 @@
     <SUITE FILE_PATH="coverage/yolowork$c2.coverage" NAME="c2 Coverage Results" MODIFIED="1533715313779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/coroutine" />
     <SUITE FILE_PATH="coverage/yolowork$16requestsget.coverage" NAME="16requests发送get请求 Coverage Results" MODIFIED="1533456709208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
     <SUITE FILE_PATH="coverage/yolowork$16requests10.coverage" NAME="16requests使用代理10 Coverage Results" MODIFIED="1533562057138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
-    <SUITE FILE_PATH="coverage/yolowork$c1_2_yield.coverage" NAME="c1_2_yield Coverage Results" MODIFIED="1533701652490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/coroutine" />
     <SUITE FILE_PATH="coverage/yolowork$selenium_demo.coverage" NAME="selenium_demo Coverage Results" MODIFIED="1533813874788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ScrapySpider/demo" />
     <SUITE FILE_PATH="coverage/yolowork$02.coverage" NAME="冒泡排序02 Coverage Results" MODIFIED="1533823121210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
-    <SUITE FILE_PATH="coverage/yolowork$11.coverage" NAME="11异步协程买汉堡 Coverage Results" MODIFIED="1533515404232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
-    <SUITE FILE_PATH="coverage/yolowork$redis_spider.coverage" NAME="redis_spider Coverage Results" MODIFIED="1533651108310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分布式爬虫" />
-    <SUITE FILE_PATH="coverage/yolowork$16requests06.coverage" NAME="16requests重定向06 Coverage Results" MODIFIED="1533559256850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
-    <SUITE FILE_PATH="coverage/yolowork$16requestspost01.coverage" NAME="16requests发送post请求01 Coverage Results" MODIFIED="1533470875328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spideroneday" />
-    <SUITE FILE_PATH="coverage/yolowork$demo.coverage" NAME="demo Coverage Results" MODIFIED="1533645176062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/分布式爬虫" />
-    <SUITE FILE_PATH="coverage/yolowork$05.coverage" NAME="进程之间的通讯05 Coverage Results" MODIFIED="1533543182800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythondemo/processing" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="yolowork" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ScrapySpider/MiddlePool/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrapySpider/MiddlePool/MiddlePool/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="127" column="19" lean-forward="false" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
-              <folding>
-                <element signature="e#169#195#0" expanded="true" />
-                <element signature="e#406#2068#0" expanded="false" />
-                <element signature="e#2121#3764#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ScrapySpider/MiddlePool/MiddlePool/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1180">
-              <caret line="59" column="65" lean-forward="false" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spideroneday/16requests发送post请求01.py" />
         <option value="$PROJECT_DIR$/spideroneday/16requests下载图片02.py" />
         <option value="$PROJECT_DIR$/spideroneday/16requests下载大文件03.py" />
         <option value="$PROJECT_DIR$/spideroneday/16requests请求响应信息04.py" />
@@ -163,6 +182,7 @@
         <option value="$PROJECT_DIR$/ScrapySpider/MiddlePool/run.py" />
         <option value="$PROJECT_DIR$/ScrapySpider/MiddlePool/MiddlePool/settings.py" />
         <option value="$PROJECT_DIR$/ScrapySpider/MiddlePool/MiddlePool/middlewares.py" />
+        <option value="$PROJECT_DIR$/proxy_pool/Config.ini" />
       </list>
     </option>
   </component>
@@ -172,7 +192,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="width" value="1378" />
     <option name="height" value="735" />
@@ -195,6 +215,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,42 +223,30 @@
               <item name="yolowork" type="b2602c69:ProjectViewProjectNode" />
               <item name="yolowork" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="yolowork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yolowork" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapySpider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yolowork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yolowork" type="462c0819:PsiDirectoryNode" />
-              <item name="ScrapySpider" type="462c0819:PsiDirectoryNode" />
-              <item name="MiddlePool" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ScrapySpider/BtMovie" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ScrapySpider/BtdyRedisCrawl" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\yolowork\MiddlewareDemo" />
+      <recent name="D:\yolowork\ScrapySpider\BtMovie" />
+      <recent name="D:\yolowork\ScrapySpider\demo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\yolowork\ScrapySpider\MiddlePool" />
       <recent name="D:\yolowork\ScrapySpider\BtMovie\BtMovie\spiders" />
       <recent name="D:\yolowork\ScrapySpider" />
       <recent name="D:\yolowork\ScrapySpider\JobCrawl" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\yolowork\MiddlewareDemo" />
-      <recent name="D:\yolowork\ScrapySpider\BtMovie" />
-      <recent name="D:\yolowork\ScrapySpider\demo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -252,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="生产者消费者模式" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,25 +276,6 @@
       <module name="yolowork" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spiderdemo/生产者消费者模式.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="选择排序01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="yolowork" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/选择排序01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,20 +300,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="随机库fake_useragent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapySpider/demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proxy_pool/Run" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="yolowork" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapySpider/demo/随机库fake_useragent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proxy_pool/Run/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proxy_pool-master/Run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yolowork" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proxy_pool-master/Run/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,19 +358,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.随机库fake_useragent" />
-      <item index="1" class="java.lang.String" itemvalue="Python.冒泡排序02" />
-      <item index="2" class="java.lang.String" itemvalue="Python.选择排序01" />
-      <item index="3" class="java.lang.String" itemvalue="Python.生产者消费者模式" />
-      <item index="4" class="java.lang.String" itemvalue="Python.run" />
+      <item index="0" class="java.lang.String" itemvalue="Python.冒泡排序02" />
+      <item index="1" class="java.lang.String" itemvalue="Python.生产者消费者模式" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.run" />
-        <item index="1" class="java.lang.String" itemvalue="Python.生产者消费者模式" />
-        <item index="2" class="java.lang.String" itemvalue="Python.冒泡排序02" />
-        <item index="3" class="java.lang.String" itemvalue="Python.选择排序01" />
-        <item index="4" class="java.lang.String" itemvalue="Python.随机库fake_useragent" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.run" />
+        <item index="3" class="java.lang.String" itemvalue="Python.生产者消费者模式" />
+        <item index="4" class="java.lang.String" itemvalue="Python.冒泡排序02" />
       </list>
     </recent_temporary>
   </component>
@@ -385,15 +394,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
+    <frame x="-7" y="0" width="1378" height="735" extended-state="1" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4152824" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32724252" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26479515" sideWeight="0.49266246" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5598007" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32724252" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26858878" sideWeight="0.49266246" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -422,62 +431,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ScrapySpider/BtMovie/BtMovie/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapySpider/demo/dtdy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1080">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapySpider/demo/随机库fake_useragent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapySpider/demo/get_content_use_selenium.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序/自定义排序函数03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序/选择排序01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/re/高级函数08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/re/非贪婪07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/re/边界匹配05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -752,9 +705,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Run/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapySpider/MiddlePool/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ScrapySpider/MiddlePool/MiddlePool/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1180">
+        <state relative-caret-position="259">
           <caret line="59" column="65" lean-forward="false" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
           <folding />
         </state>
@@ -765,18 +734,72 @@
         <state relative-caret-position="760">
           <caret line="127" column="19" lean-forward="false" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
           <folding>
-            <element signature="e#169#195#0" expanded="true" />
+            <element signature="e#169#195#0" expanded="false" />
             <element signature="e#406#2068#0" expanded="false" />
             <element signature="e#2121#3764#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ScrapySpider/MiddlePool/run.py">
+    <entry file="file://$PROJECT_DIR$/分布式爬虫/redis_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="-2401">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#289#299#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapySpider/demo/随机库fake_useragent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapySpider/demo/selenium_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/分布式爬虫/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool/Config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool/Run/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrapySpider/JobCrawl/JobCrawl/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-828">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1533806007746" expanded="true" signature="888:937" ph="insert into jobs... " />
+          </folding>
         </state>
       </provider>
     </entry>

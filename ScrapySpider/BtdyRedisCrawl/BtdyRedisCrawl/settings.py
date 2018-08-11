@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for MiddlePool project
+# Scrapy settings for BtdyRedisCrawl project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,41 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'MiddlePool'
+# ---------------------------------------------------------
+# 去重
+# Ensure all spiders share same duplicates filter through redis.
+DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
 
-SPIDER_MODULES = ['MiddlePool.spiders']
-NEWSPIDER_MODULE = 'MiddlePool.spiders'
+
+# Store scraped item in redis for post-processing.
+ITEM_PIPELINES = {
+    'scrapy_redis.pipelines.RedisPipeline': 300
+}
+
+# 定义用来保存爬取的item的key
+REDIS_ITEMS_KEY = "btdy:items"
+
+
+
+# Specify the host and port to use when connecting to Redis (optional).
+REDIS_HOST = '127.0.0.1'
+REDIS_PORT = 6379
+
+# 当redis使用了密码的时候,请使用下面的方法指定redis
+#REDIS_URL = 'redis://user:pass@hostname:6379'
+
+# Default start urls key for RedisSpider and RedisCrawlSpider.(设置默认url)
+#REDIS_START_URLS_KEY = '%(name)s:start_urls'
+# ----------------------------------------------------------
+
+BOT_NAME = 'BtdyRedisCrawl'
+
+SPIDER_MODULES = ['BtdyRedisCrawl.spiders']
+NEWSPIDER_MODULE = 'BtdyRedisCrawl.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'MiddlePool (+http://www.yourdomain.com)'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -47,19 +74,14 @@ ROBOTSTXT_OBEY = False
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'MiddlePool.middlewares.MiddlepoolSpiderMiddleware': 543,
+#    'BtdyRedisCrawl.middlewares.BtdyrediscrawlSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
-# 禁用默认中间件  去掉了默认useragent 的中间件  可以查看中间件源代码
-DOWNLOADER_MIDDLEWARES = {
-    "scrapy.downloadermiddlewares.useragent.UserAgentMiddleware":None,
-    'MiddlePool.middlewares.MiddlepoolDownloaderMiddleware': 543,
-    'MiddlePool.middlewares.MiddlepoolRandomUserAgentMiddleware': 544,
-    'MiddlePool.middlewares.MiddlepoolRandomProxyMiddleware': 545,
-
-}
+#DOWNLOADER_MIDDLEWARES = {
+#    'BtdyRedisCrawl.middlewares.BtdyrediscrawlDownloaderMiddleware': 543,
+#}
 
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
@@ -70,7 +92,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'MiddlePool.pipelines.MiddlepoolPipeline': 300,
+#    'BtdyRedisCrawl.pipelines.BtdyrediscrawlPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

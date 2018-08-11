@@ -6,14 +6,9 @@
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
-import random
-# pip install fake_useragent
-from fake_useragent import UserAgent
-# 一个默认的中间件
-from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
 
 
-class MiddlepoolSpiderMiddleware(object):
+class BtdyrediscrawlSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the
     # passed objects.
@@ -61,7 +56,7 @@ class MiddlepoolSpiderMiddleware(object):
         spider.logger.info('Spider opened: %s' % spider.name)
 
 
-class MiddlepoolDownloaderMiddleware(object):
+class BtdyrediscrawlDownloaderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the downloader middleware does not modify the
     # passed objects.
@@ -106,26 +101,3 @@ class MiddlepoolDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
-
-class MiddlepoolRandomUserAgentMiddleware(object):
-    def process_request(self, request, spider):
-        print(request.headers)
-        ua = UserAgent()
-        user_agent = ua.random
-        request.headers.setdefault('User-Agent', user_agent)
-        print(request.headers)
-        return None
-
-# 随机池代理
-class MiddlepoolRandomProxyMiddleware(object):
-    # IP_POOL = [
-    #     'http://175.155.24.6:808',
-    # ]
-    def process_request(self, request, spider):
-        proxy = 'http://' + request.get('http://127.0.0.1:5000/get/').text
-        # proxy = random.choice(self.IP_POOL)
-        print(proxy)
-        request.meta['proxy'] = proxy
-        return None
-
-

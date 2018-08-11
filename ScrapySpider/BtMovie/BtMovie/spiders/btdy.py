@@ -41,7 +41,7 @@ class BtdySpider(scrapy.Spider):
         # 假如测试
 
         item = response.meta.get('item')
-        link = response.xpath('//a[@class="d1"]/@href').extract_first()
+        link = response.xpath('//ul[@class="p_list_02"]/li/span/a/@href').extract_first()
         item['link'] = link
         print(item)
         yield item
