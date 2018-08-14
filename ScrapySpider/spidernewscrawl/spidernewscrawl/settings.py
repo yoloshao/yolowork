@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for BtdyRedisCrawl project
+# Scrapy settings for spidernewscrawl project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,37 +9,10 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-# ---------------------------------------------------------
-# 去重
-# Ensure all spiders share same duplicates filter through redis.
-DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
+BOT_NAME = 'spidernewscrawl'
 
-
-# Store scraped item in redis for post-processing.
-ITEM_PIPELINES = {
-    'scrapy_redis.pipelines.RedisPipeline': 300
-}
-
-# 定义用来保存爬取的item的key
-REDIS_ITEMS_KEY = 'btdy:items'
-
-
-
-# Specify the host and port to use when connecting to Redis (optional).
-REDIS_HOST = '127.0.0.1'
-REDIS_PORT = 6379
-
-# 当redis使用了密码的时候,请使用下面的方法指定redis
-#REDIS_URL = 'redis://user:pass@hostname:6379'
-
-# Default start urls key for RedisSpider and RedisCrawlSpider.(设置默认url)
-#REDIS_START_URLS_KEY = '%(name)s:start_urls'
-# ----------------------------------------------------------
-
-BOT_NAME = 'BtdyRedisCrawl'
-
-SPIDER_MODULES = ['BtdyRedisCrawl.spiders']
-NEWSPIDER_MODULE = 'BtdyRedisCrawl.spiders'
+SPIDER_MODULES = ['spidernewscrawl.spiders']
+NEWSPIDER_MODULE = 'spidernewscrawl.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -74,13 +47,13 @@ ROBOTSTXT_OBEY = False
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'BtdyRedisCrawl.middlewares.BtdyrediscrawlSpiderMiddleware': 543,
+#    'spidernewscrawl.middlewares.SpidernewscrawlSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'BtdyRedisCrawl.middlewares.BtdyrediscrawlDownloaderMiddleware': 543,
+#    'spidernewscrawl.middlewares.SpidernewscrawlDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -92,7 +65,7 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'BtdyRedisCrawl.pipelines.BtdyrediscrawlPipeline': 300,
+#    'spidernewscrawl.pipelines.SpidernewscrawlPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

@@ -8,9 +8,7 @@
 import scrapy
 
 
-class BtdyrediscrawlItem(scrapy.Item):
+class SpidernewscrawlItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    name = scrapy.Field()
-    score = scrapy.Field()
-    category = scrapy.Field()
+    pass

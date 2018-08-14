@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import scrapy
 # 导入分布式爬虫模块
 from scrapy_redis.spiders import RedisSpider
 from BtdyRedisCrawl.items import BtdyrediscrawlItem
@@ -26,8 +25,8 @@ class BtdySpider(RedisSpider):
             name = movie.xpath('.//p[@class="title"]/a/text()').extract_first()
             score = movie.xpath('.//p[@class="title"]/span/text()').extract_first()
             category = movie.xpath('.//p[@class="des"]/text()').extract_first()
-            print(name, score, category)
-            item = BtdyrediscrawlItem
+            item = BtdyrediscrawlItem()
+            
             item['name'] = name
             item['score'] = score
             item['category'] = category
